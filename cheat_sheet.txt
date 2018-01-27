@@ -7,3 +7,9 @@ git diff
 	by itself compares working directory to staging area
 git reset --hard
 	set working directory 
+git branch
+	see what branch I am on
+git branch name-of-branch
+	create new branch
+git checkout name-of-branch
+	see what branch I am on
