@@ -7,7 +7,8 @@ What value do you think it offers?
 	easily undone than a commit
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+	when I use git diff to compare working directory with staged directory
+	I can use git diff --staged to compare staged directory to last commit
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
