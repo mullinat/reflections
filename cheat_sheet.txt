@@ -1,0 +1,5 @@
+ls -a
+        list all files in a directory
+git status
+        what is going on with git in this directory
+git config --global color.ui.auto
