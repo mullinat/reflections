@@ -1,0 +1,53 @@
+diff -u oldFile.txt newFile.txt
+cat > example.txt
+	Enter some text
+	ctrl-z to exit
+pwd
+	prints my current directory
+scp
+	securely copy a directory
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+	Said the exact line
+	Showed both versions of the line and what file they were from
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+	One can go back and see all their changes
+	One can go back to when a program was working
+	I can see when what was added
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+	You know it works when you commit
+	Commits have comments attached
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+	Projects contain multiple files
+	Programs use multiple files
+	Java has classes and class has to be its own file
+How can you use the commands git log and git diff to view the history of files?
+	idk yet
+How might using version control make you more confident to make changes that
+could break something?
+	I can commit when I know everything works then mess with whatever I want
+	if it works great new commit otherwise use old commit
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+	I need to think about that more
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	The history is more percise and useful
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	Git is for programing which has interdependent files while google docs is not
+How can you use the commands git log and git diff to view the history of files?
+	git log
+		used to see git commit history
+		remember to scroll through history
+	git diff old_commit_id new_commit_id
+		compare two different commits
+How might using version control make you more confident to make
+changes that could break something?
+	If I am not on the head I can do whatever I want and then revert to the 
+	head if need be
+Now that you have your workspace set up, what do you want to try using Git for?
+	My algorithums class
+	Learn Full Stack 
+
