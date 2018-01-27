@@ -3,3 +3,5 @@ ls -a
 git status
         what is going on with git in this directory
 git config --global color.ui.auto
+git diff
+	by itself compares working directory to staging area
