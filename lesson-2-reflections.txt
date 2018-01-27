@@ -11,7 +11,9 @@ change?
 	I can use git diff --staged to compare staged directory to last commit
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
-
+	One wants to add an experimental feature
+	One needs a just working version
+	See how the layout of another language works
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
