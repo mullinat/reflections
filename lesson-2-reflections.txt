@@ -19,7 +19,10 @@ How do the diagrams help you visualize the branch structure?
 	What commits reference the last commit can be easily known
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+	Merging two branches creates an interesting git history
+	Since it has two different versions of history is basically creates a 
+	completely new branch
+	When merging happens the gif log is ordered by history
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
