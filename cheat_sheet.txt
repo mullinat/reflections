@@ -13,3 +13,7 @@ git branch name-of-branch
 	create new branch
 git checkout name-of-branch
 	see what branch I am on
+git log --graph (--oneline) branch1 branch2
+	see different commits between two branches
+git checkout -b new_branch_name
+	checkout's a new branch
