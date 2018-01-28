@@ -15,9 +15,11 @@ organized? How would branches help?
 	One needs a just working version
 	See how the layout of another language works
 How do the diagrams help you visualize the branch structure?
-
+	One can see what commit compares to the other commits
+	What commits reference the last commit can be easily known
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
