@@ -3,7 +3,7 @@ ls -a
 git status
         what is going on with git in this directory
 git config --global color.ui.auto
-git diff
+git diff (--staged)
 	by itself compares working directory to staging area
 git reset --hard
 	set working directory 

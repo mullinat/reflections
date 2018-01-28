@@ -25,4 +25,6 @@ the diagram the way we do?
 	When merging happens the gif log is ordered by history
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
-
+	Merging only tells you where a problem it
+        Merging keeps track of both files
+        Mering can be fucking tedious
