@@ -16,4 +16,8 @@ git checkout name-of-branch
 git log --graph (--oneline) branch1 branch2
 	see different commits between two branches
 git checkout -b new_branch_name
-	checkout's a new branch
+	checkout's a new branch 
+How to ignore specific files?
+	create a file called .gitignore in the directory of the files you want to
+	ignore. Then add the specific file names like HelloWorld.class or add 
+	use shord hand like *.class to ignore all .class files
