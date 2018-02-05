@@ -1,3 +1,7 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	Automatically pulling code can break your code it you are on a different commit
+	What would happen if you were on a different branch?
+
 Commands Used:
 Use git remote to see all remotes
 git remote add origin
@@ -6,3 +10,4 @@ git remote add origin https://github.com/mullinat/reflections.git
         add location to origin
 git remote -v
 git push origin master
+git pull origin master
