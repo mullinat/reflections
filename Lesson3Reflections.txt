@@ -1,0 +1,8 @@
+Commands Used:
+Use git remote to see all remotes
+git remote add origin
+        note that origin can be whatever name I want because I can have multiple remotes
+git remote add origin https://github.com/mullinat/reflections.git
+        add location to origin
+git remote -v
+git push origin master
