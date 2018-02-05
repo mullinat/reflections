@@ -5,6 +5,10 @@ Describe the differences between forks, clones, and branches. When would you use
 	Forks append and can be managed by groups of people
 	Clones copy what is in an existing repository
 	Branches are different versions of code that still exists in a repository
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	Stops unneeded branches from being created
+	Helps merging
+	Keeps you up to date on what others are working on 
 Commands Used:
 Use git remote to see all remotes
 git remote add origin
